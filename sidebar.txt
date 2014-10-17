@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ncm:home|Door43 (ncm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ncm|d43-ncm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ncm/archive/master.zip|d43-ncm.zip]]
+
+**Recent Changes**
+{{changes>ns = ncm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ncm|Ethnologue data]]
+
